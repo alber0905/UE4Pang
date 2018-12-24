@@ -397,3 +397,675 @@ Script call stack:
 [2018.12.24-13.07.40:133][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2018.12.24-13.07.40:312][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2018.12.24-13.07.40:399][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.24-13.17.29:427][677]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-13.17.29:456][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.17.29:456][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-13.17.29:456][677]PIE: New page: PIE session: PangLevel (Dec 24, 2018, 3:17:29 PM)
+[2018.12.24-13.17.29:457][677]LogPlayLevel: Creating play world package: /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel
+[2018.12.24-13.17.29:477][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020073s)
+[2018.12.24-13.17.29:478][677]LogAIModule: Creating AISystem for world PangLevel
+[2018.12.24-13.17.29:478][677]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2018.12.24-13.17.29:478][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pang3DAssets/Levels/PangLevel.PangLevel to /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel.PangLevel (0.021627s)
+[2018.12.24-13.17.29:532][677]LogInit: XAudio2 using 'C24F390 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.24-13.17.29:543][677]LogInit: FAudioDevice initialized.
+[2018.12.24-13.17.29:578][677]LogLoad: Game class is 'PangGameMode_C'
+[2018.12.24-13.17.29:580][677]LogWorld: Bringing World /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel.PangLevel up for play (max tick rate 0) at 2018.12.24-14.17.29
+[2018.12.24-13.17.29:581][677]LogWorld: Bringing up level for play took: 0.001728
+[2018.12.24-13.17.29:594][677]PIE: Play in editor start time for /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel 0.409
+[2018.12.24-13.17.29:595][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.17.29:596][677]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.29:596][677]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.29:686][685]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.29:686][685]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.29:686][685]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.29:802][699]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.29:802][699]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.29:963][718]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.29:963][718]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.29:963][718]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.30:103][735]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.30:103][735]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.30:271][755]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.30:537][787]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.30:880][828]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.31:181][864]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform2
+[2018.12.24-13.17.31:348][884]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform1
+[2018.12.24-13.17.31:748][932]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.32:122][977]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.32:122][977]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.32:233][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.17.32:233][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-13.17.32:264][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-13.17.32:265][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.17.32:294][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-13.17.32:336][993]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.24-13.17.33:441][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-13.17.33:550][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-13.17.33:569][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.17.33:570][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-13.17.33:570][123]PIE: New page: PIE session: PangLevel (Dec 24, 2018, 3:17:33 PM)
+[2018.12.24-13.17.33:570][123]LogPlayLevel: Creating play world package: /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel
+[2018.12.24-13.17.33:586][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015659s)
+[2018.12.24-13.17.33:587][123]LogAIModule: Creating AISystem for world PangLevel
+[2018.12.24-13.17.33:587][123]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.12.24-13.17.33:587][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pang3DAssets/Levels/PangLevel.PangLevel to /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel.PangLevel (0.017006s)
+[2018.12.24-13.17.33:634][123]LogInit: XAudio2 using 'C24F390 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.24-13.17.33:645][123]LogInit: FAudioDevice initialized.
+[2018.12.24-13.17.33:675][123]LogLoad: Game class is 'PangGameMode_C'
+[2018.12.24-13.17.33:678][123]LogWorld: Bringing World /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel.PangLevel up for play (max tick rate 0) at 2018.12.24-14.17.33
+[2018.12.24-13.17.33:678][123]LogWorld: Bringing up level for play took: 0.001605
+[2018.12.24-13.17.33:692][123]PIE: Play in editor start time for /Game/Pang3DAssets/Levels/UEDPIE_0_PangLevel 0.507
+[2018.12.24-13.17.33:693][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.17.35:568][345]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.36:284][431]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.36:643][474]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Pillar1
+[2018.12.24-13.17.36:643][474]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.36:768][489]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.37:386][563]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.37:844][618]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.38:427][688]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.38:877][742]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.39:419][807]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform
+[2018.12.24-13.17.39:960][872]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.40:529][940]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Platform2
+[2018.12.24-13.17.41:871][101]LogBlueprintUserMessages: [Ball_C_0] Ball_C_0.Sphere Sphere: Floor
+[2018.12.24-13.17.44:031][360]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Ball1
+[2018.12.24-13.17.44:031][360]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.44:031][360]LogBlueprintUserMessages: [Ball_C_1] Ball_C_1.Sphere Sphere: Ball2
+[2018.12.24-13.17.44:031][360]LogScript: Warning: Script Msg: Divide by zero detected: -0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.45:531][540]LogBlueprintUserMessages: [Ball_C_4] Ball_C_4.Sphere Sphere: Ball3
+[2018.12.24-13.17.45:531][540]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.45:531][540]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Ball4
+[2018.12.24-13.17.45:531][540]LogScript: Warning: Script Msg: Divide by zero detected: -0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.46:038][601]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Floor
+[2018.12.24-13.17.47:490][775]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Platform1
+[2018.12.24-13.17.47:640][793]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.47:640][793]LogBlueprintUserMessages: [Ball_C_4] Ball_C_4.Sphere Sphere: Floor
+[2018.12.24-13.17.48:582][906]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform
+[2018.12.24-13.17.49:190][979]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.49:191][979]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Pillar2
+[2018.12.24-13.17.49:191][979]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.49:332][996]LogBlueprintUserMessages: [Ball_C_4] Ball_C_4.Sphere Sphere: Platform2
+[2018.12.24-13.17.49:657][ 35]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Floor
+[2018.12.24-13.17.50:122][ 90]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Platform1
+[2018.12.24-13.17.50:506][136]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Floor
+[2018.12.24-13.17.51:681][276]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.51:723][281]LogBlueprintUserMessages: [Ball_C_4] Ball_C_4.Sphere Sphere: Ball3
+[2018.12.24-13.17.51:723][281]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Ball4
+[2018.12.24-13.17.51:773][287]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.52:306][351]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Platform2
+[2018.12.24-13.17.53:974][551]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.54:467][610]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Floor
+[2018.12.24-13.17.55:150][692]LogBlueprintUserMessages: [Ball_C_2] Ball_C_2.Sphere Sphere: Platform
+[2018.12.24-13.17.55:241][703]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Pillar1
+[2018.12.24-13.17.55:241][703]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.55:609][747]LogBlueprintUserMessages: [Ball_C_5] Ball_C_5.Sphere Sphere: Ball6
+[2018.12.24-13.17.55:609][747]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.55:609][747]LogBlueprintUserMessages: [Ball_C_6] Ball_C_6.Sphere Sphere: Ball5
+[2018.12.24-13.17.55:609][747]LogScript: Warning: Script Msg: Divide by zero detected: -0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.56:400][842]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.57:367][958]LogBlueprintUserMessages: [Ball_C_5] Ball_C_5.Sphere Sphere: Floor
+[2018.12.24-13.17.57:367][958]LogBlueprintUserMessages: [Ball_C_6] Ball_C_6.Sphere Sphere: Floor
+[2018.12.24-13.17.57:959][ 29]LogBlueprintUserMessages: [Ball_C_5] Ball_C_5.Sphere Sphere: Pillar1
+[2018.12.24-13.17.57:959][ 29]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.17.58:705][118]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.17.59:215][179]LogBlueprintUserMessages: [Ball_C_5] Ball_C_5.Sphere Sphere: Floor
+[2018.12.24-13.18.01:024][396]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.18.01:442][446]LogBlueprintUserMessages: [Ball_C_5] Ball_C_5.Sphere Sphere: Floor
+[2018.12.24-13.18.01:533][457]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform2
+[2018.12.24-13.18.01:916][503]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.18.02:383][559]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform2
+[2018.12.24-13.18.02:758][604]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.18.03:249][663]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform2
+[2018.12.24-13.18.03:651][711]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.18.04:117][767]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform2
+[2018.12.24-13.18.04:550][819]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Floor
+[2018.12.24-13.18.05:609][946]LogBlueprintUserMessages: [Ball_C_7] Ball_C_7.Sphere Sphere: Floor
+[2018.12.24-13.18.06:143][ 10]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform1
+[2018.12.24-13.18.06:251][ 23]LogBlueprintUserMessages: [Ball_C_7] Ball_C_7.Sphere Sphere: Platform
+[2018.12.24-13.18.06:476][ 50]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Pillar2
+[2018.12.24-13.18.06:476][ 50]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ReceiveHit
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+	Function /Game/Pang3DAssets/Blueprints/Ball.Ball_C:AddBallImpulse
+
+[2018.12.24-13.18.06:751][ 83]LogBlueprintUserMessages: [Ball_C_7] Ball_C_7.Sphere Sphere: Floor
+[2018.12.24-13.18.06:975][110]LogBlueprintUserMessages: [Ball_C_3] Ball_C_3.Sphere Sphere: Platform1
+[2018.12.24-13.18.07:210][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.18.07:210][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-13.18.07:247][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-13.18.07:247][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel' with GeneratedClass '/Game/Pang3DAssets/Levels/PangLevel.PangLevel_C' with ClassGeneratedBy '/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel'
+[2018.12.24-13.18.07:277][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-13.18.07:317][141]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.24-13.18.10:426][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-13.21.09:528][392]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pang3DAssets/GUI/PauseMenu.PauseMenu
+[2018.12.24-13.21.27:616][262]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pang3DAssets/GUI/Menu.Menu
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/GUI.SKEL_GUI_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/PauseMenu.PauseMenu:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:PauseMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:PauseMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.SKEL_Menu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.Menu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_15:Menu_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_15:Menu_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:500][908]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (VerticalBox /Engine/UMG/Editor/Transient.MainMenu).  Import failed...
+[2018.12.24-13.21.42:500][908]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/GUI.SKEL_GUI_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/PauseMenu.PauseMenu:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:PauseMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:PauseMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.SKEL_Menu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.Menu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_15:Menu_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_15:Menu_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.21.42:501][908]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_17).  Import failed...
+[2018.12.24-13.21.42:501][908]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2018.12.24-13.22.04:975][746]LogSlate: Took 0.002708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.24-13.22.32:235][888]LogEditorTransaction: Undo Edit Left
+[2018.12.24-13.23.37:552][515]LogEditorTransaction: Undo Move Widget
+[2018.12.24-13.23.37:698][520]LogEditorTransaction: Undo Remove Widget
+[2018.12.24-13.23.44:151][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.23.44:169][758]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu23FD76A744AA54B9E75B2BB599A258E2.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.23.55:055][  8]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.24-13.23.55:133][  9]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pang3D
+[2018.12.24-13.23.55:133][  9]LogTemp: CWD: D:\GameLibraries\Epic\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.24-13.23.55:133][  9]LogTemp: Initial Dir: D:\GameLibraries\Epic\UE_4.20
+[2018.12.24-13.23.55:133][  9]LogTemp: Env CWD: D:\GameLibraries\Epic\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.24-13.23.55:133][  9]LogTemp: BranchPath = DESKTOP-B06L2N8/D/GameLibraries/Epic/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-B06L2N8/D/GameLibraries/Epic/UE_4.20/Engine/Binaries
+[2018.12.24-13.23.55:182][ 10]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alber\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.24-13.24.26:927][347]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel
+[2018.12.24-13.24.38:986][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/Levels/PangLevel" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.24-13.24.39:324][  7]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PangLevel209012A24FA7EE23B7D75C986875BDFF.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap'
+[2018.12.24-13.24.39:363][  7]LogFileHelpers: Saving map 'PangLevel' took 0.466
+[2018.12.24-13.25.00:744][603]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.24-13.25.00:798][603]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.24-13.27.13:714][103]BlueprintLog: New page: Compile PangLevel
+[2018.12.24-13.27.52:111][782]BlueprintLog: New page: Compile PangLevel
+[2018.12.24-13.27.55:115][ 27]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.27.56:646][ 27]LogSlate: Window 'Save Content' being destroyed
+[2018.12.24-13.27.56:917][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/Levels/PangLevel" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.24-13.27.57:236][ 27]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PangLevel83C5A4B9465C0BDB44714295921F3B52.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap'
+[2018.12.24-13.27.57:272][ 27]LogFileHelpers: Saving map 'PangLevel' took 0.461
+[2018.12.24-13.28.24:897][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/Levels/PangLevel" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.24-13.28.25:224][248]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PangLevel62E976FA44B278D5F901B3ABDC8C528A.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap'
+[2018.12.24-13.28.25:262][248]LogFileHelpers: Saving map 'PangLevel' took 0.455
+[2018.12.24-13.29.04:631][388]BlueprintLog: New page: Compile PangLevel
+[2018.12.24-13.29.04:674][388]LogBlueprint: Error: [Compiler PersistentLevel.PangLevel] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.12.24-13.29.04:675][388]LogBlueprint: Error: [Compiler PersistentLevel.PangLevel] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.24-13.29.04:844][388]LogBlueprint: Warning: [Compiler PersistentLevel.PangLevel] [3392.32] Compile of PersistentLevel.PangLevel failed. 2 Fatal Issue(s) 0 Warning(s) [in 213 ms] (/Game/Pang3DAssets/Levels/PangLevel.PangLevel:PersistentLevel.PangLevel)
+[2018.12.24-13.29.28:735][849]BlueprintLog: New page: Compile PangLevel
+[2018.12.24-13.29.31:432][ 62]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.29.32:740][ 62]LogSlate: Window 'Save Content' being destroyed
+[2018.12.24-13.29.32:970][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/Levels/PangLevel" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.24-13.29.33:291][ 62]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PangLevel766AA6DF45DE3F35DB678A8EE0F1323D.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap'
+[2018.12.24-13.29.33:328][ 62]LogFileHelpers: Saving map 'PangLevel' took 0.463
+[2018.12.24-13.31.09:069][290]BlueprintLog: New page: Compile PangLevel
+[2018.12.24-13.31.27:209][138]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.32.28:373][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.32.28:438][984]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu847A897547330E1E8805B4B48BBFF189.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.32.29:601][ 61]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.32.29:609][ 61]LogBlueprint: Error: [Compiler PauseMenu] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.12.24-13.32.29:609][ 61]LogBlueprint: Error: [Compiler PauseMenu] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.24-13.32.29:658][ 61]LogBlueprint: Warning: [Compiler PauseMenu] [3597.14] Compile of PauseMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 57 ms] (/Game/Pang3DAssets/GUI/PauseMenu.PauseMenu)
+[2018.12.24-13.32.35:147][492]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.32.37:967][768]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.32.39:270][768]LogSlate: Window 'Save Content' being destroyed
+[2018.12.24-13.32.39:414][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.32.39:439][768]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu9BDDAA884A5EE4B317ED1CB9533B4A7B.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.32.39:532][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/Levels/PangLevel" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.24-13.32.39:875][768]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PangLevel11909D0349DFACB18BA5BEA48857266F.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/Levels/PangLevel.umap'
+[2018.12.24-13.32.39:913][768]LogFileHelpers: Saving map 'PangLevel' took 0.469
+[2018.12.24-13.34.07:165][ 26]LogSlate: Window 'PangLevel - Level Blueprint Editor' being destroyed
+[2018.12.24-13.34.07:217][ 26]LogSlate: Window 'PangLevel - Level Blueprint Editor' being destroyed
+[2018.12.24-13.34.12:283][582]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pang3DAssets/GUI/PauseMenu.PauseMenu
+[2018.12.24-13.34.25:729][397]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.35.02:807][663]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.35.02:820][663]LogBlueprint: Error: [Compiler PauseMenu] This blueprint (self) is not a GameInfo_C, therefore ' Target ' must have a connection.
+[2018.12.24-13.35.02:821][663]LogBlueprint: Error: [Compiler PauseMenu] Variable node  Set isMainMenu  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.24-13.35.02:987][663]LogBlueprint: Warning: [Compiler PauseMenu] [3750.47] Compile of PauseMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 179 ms] (/Game/Pang3DAssets/GUI/PauseMenu.PauseMenu)
+[2018.12.24-13.35.10:975][316]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.35.11:646][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.35.11:677][351]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu369F3716403A3981EB982E88C51812C4.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.35.16:073][730]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pang3DAssets/GUI/Menu.Menu
+[2018.12.24-13.35.48:304][152]LogEditorTransaction: Undo Resize Node
+[2018.12.24-13.35.48:890][168]LogEditorTransaction: Undo Paste clipboard contents
+[2018.12.24-13.36.05:233][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.36.05:264][534]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu07387A0541C2E962ABA04F9F4F24D5DD.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.36.19:458][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.36.19:495][704]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu58C9DBD44CCE23F817D76494CAB9152F.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.36.29:933][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.36.30:003][522]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu2320513540BDDD7AF2DC3A8C843C23F5.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/GUI.SKEL_GUI_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/PauseMenu.PauseMenu:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_10.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_20:Menu_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.SKEL_Menu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/Menu.Menu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_20:Menu_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_PauseMenu_C_28:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Pang3DAssets/GUI/PauseMenu.PauseMenu_C:WidgetTree.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_11.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_9.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:PauseMenu_C_31.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_14.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_12.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_15.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_20:Menu_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Pang3DAssets/GUI/GUI.GUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_18:PauseMenu_C_8.WidgetTree_0.CanvasPanel_0
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.SKEL_Menu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_20:Menu_C_0.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_3
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_20:Menu_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_3
+[2018.12.24-13.37.24:861][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_20:Menu_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_3
+[2018.12.24-13.37.24:861][759]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Pang3DAssets/GUI/Menu.Menu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3) from referencer (CanvasPanel /Engine/UMG/Editor/Transient.Options).  Import failed...
+[2018.12.24-13.37.24:861][759]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_3"''
+[2018.12.24-13.37.35:753][167]LogEditorTransaction: Undo Remove Widget
+[2018.12.24-13.37.42:743][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.37.42:886][406]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu9E621C23469CB2398AC371B5E426743A.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.37.47:202][553]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.37.47:222][553]LogBlueprint: Warning: [Compiler PauseMenu] Could not find a variable named "GameOver" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Get GameOver
+[2018.12.24-13.37.47:223][553]LogBlueprint: Error: [Compiler PauseMenu] The property associated with  Game Over  could not be found in '/Game/Pang3DAssets/GUI/PauseMenu.PauseMenu_C'
+[2018.12.24-13.37.47:440][553]LogBlueprint: Warning: [Compiler PauseMenu] [3914.92] Compile of PauseMenu failed. 1 Fatal Issue(s) 1 Warning(s) [in 238 ms] (/Game/Pang3DAssets/GUI/PauseMenu.PauseMenu)
+[2018.12.24-13.38.07:378][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.38.07:428][ 46]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu1381DA864FE39CCA37D8BD892E5766A8.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.38.08:185][105]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.38.11:889][425]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.39.05:618][ 35]BlueprintLog: New page: Compile PauseMenu
+[2018.12.24-13.39.08:591][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.39.08:638][216]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu2EDAA11A4749E3B61BC57CA6F1CB79CA.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.39.10:805][424]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.40.20:933][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pang3DAssets/GUI/PauseMenu" FILE="../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset" SILENT=true
+[2018.12.24-13.40.21:013][283]LogSavePackage: Moving '../../../../../../git/UE4Pang/Pang3D/Saved/PauseMenu773384504EA09A10ECE65CA4CB880FC4.tmp' to '../../../../../../git/UE4Pang/Pang3D/Content/Pang3DAssets/GUI/PauseMenu.uasset'
+[2018.12.24-13.43.28:937][251]LogSlate: Window 'Menu' being destroyed
+[2018.12.24-13.43.28:995][251]LogSlate: Window 'Menu' being destroyed
+[2018.12.24-13.43.30:398][388]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.43.58:866][395]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.24-13.43.58:976][399]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pang3D
+[2018.12.24-13.43.58:976][399]LogTemp: CWD: D:\GameLibraries\Epic\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.24-13.43.58:976][399]LogTemp: Initial Dir: D:\GameLibraries\Epic\UE_4.20
+[2018.12.24-13.43.58:976][399]LogTemp: Env CWD: D:\GameLibraries\Epic\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.24-13.43.58:976][399]LogTemp: BranchPath = DESKTOP-B06L2N8/D/GameLibraries/Epic/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-B06L2N8/D/GameLibraries/Epic/UE_4.20/Engine/Binaries
+[2018.12.24-13.43.59:019][401]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alber\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.24-13.44.40:769][770]LogTemp: Repeating last play command: Standalone Game
+[2018.12.24-13.45.33:421][873]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.24-13.45.33:533][873]LogSlate: Window 'Pang3D - Unreal Editor' being destroyed
+[2018.12.24-13.45.33:872][874]Cmd: QUIT_EDITOR
+[2018.12.24-13.45.34:389][874]LogExit: Preparing to exit.
+[2018.12.24-13.45.35:280][874]LogExit: Editor shut down
+[2018.12.24-13.45.35:280][874]LogExit: Transaction tracking system shut down
+[2018.12.24-13.45.35:784][874]LogExit: Object subsystem successfully closed.
+[2018.12.24-13.45.35:804][874]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.24-13.45.35:809][874]LogD3D11RHI: Shutdown
+[2018.12.24-13.45.35:809][874]LogD3D11RHI: CleanupD3DDevice
+[2018.12.24-13.45.35:812][874]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module SequencerWidgets (618)
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.24-13.45.35:826][874]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2018.12.24-13.45.35:827][874]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2018.12.24-13.45.35:827][874]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2018.12.24-13.45.35:827][874]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2018.12.24-13.45.35:827][874]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2018.12.24-13.45.35:827][874]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.24-13.45.35:828][874]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.24-13.45.35:829][874]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.24-13.45.36:686][874]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.24-13.45.36:687][874]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.24-13.45.36:688][874]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.24-13.45.36:688][874]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.24-13.45.36:688][874]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.24-13.45.36:688][874]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.24-13.45.36:688][874]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.24-13.45.36:690][874]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.24-13.45.36:745][874]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.24-13.45.36:745][874]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.24-13.45.36:745][874]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.24-13.45.36:746][874]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.24-13.45.36:746][874]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.24-13.45.36:746][874]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.24-13.45.36:746][874]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.24-13.45.36:747][874]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.24-13.45.36:747][874]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.24-13.45.36:747][874]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.24-13.45.36:765][874]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.24-13.45.36:765][874]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.24-13.45.36:769][874]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.24-13.45.36:769][874]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.24-13.45.36:770][874]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.24-13.45.36:770][874]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.24-13.45.36:770][874]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.24-13.45.36:770][874]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.24-13.45.36:770][874]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.24-13.45.36:771][874]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.24-13.45.36:772][874]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.24-13.45.36:772][874]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.24-13.45.36:772][874]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.24-13.45.36:922][874]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.24-13.45.36:925][874]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.24-13.45.36:926][874]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.24-13.45.36:927][874]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.24-13.45.36:927][874]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.24-13.45.36:927][874]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.24-13.45.37:028][874]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.24-13.45.37:129][874]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.24-13.45.37:130][874]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.24-13.45.37:130][874]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.24-13.45.37:131][874]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.24-13.45.37:131][874]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.24-13.45.37:131][874]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.24-13.45.37:133][874]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.24-13.45.37:133][874]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.24-13.45.37:133][874]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.24-13.45.37:133][874]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.24-13.45.37:133][874]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.24-13.45.37:133][874]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.24-13.45.37:135][874]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.24-13.45.37:141][874]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.24-13.45.37:141][874]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.24-13.45.37:141][874]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.24-13.45.37:141][874]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.24-13.45.37:141][874]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.24-13.45.37:142][874]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.24-13.45.37:144][874]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.24-13.45.37:145][874]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.24-13.45.37:145][874]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.24-13.45.37:145][874]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.24-13.45.37:145][874]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.24-13.45.37:145][874]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.24-13.45.37:148][874]LogDerivedDataCache: Shutdown
+[2018.12.24-13.45.37:148][874]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.24-13.45.37:148][874]LogXGEController: Cleaning working directory: C:/Users/alber/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.24-13.45.37:148][874]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.24-13.45.37:148][874]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.24-13.45.37:148][874]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.24-13.45.37:148][874]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.24-13.45.37:149][874]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.24-13.45.37:151][874]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.24-13.45.37:151][874]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.24-13.45.37:152][874]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.24-13.45.37:153][874]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.24-13.45.37:169][874]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.24-13.45.37:170][874]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.24-13.45.37:170][874]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.24-13.45.37:183][874]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.24-13.45.37:183][874]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.24-13.45.37:183][874]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9656EF6D-45E9-E40C-DB60-B1B50AA11DDB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=8f12336d47634a70af0d87ac633517ab%7C19bc7b7b16514b819466102208b8f31d%7C951f1cd2-0ed7-46f0-aa8a-97df9f2a2f86&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.24-13.45.37:194][874]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.24-13.45.37:195][874]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.24-13.45.37:196][874]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.24-13.45.37:196][874]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.24-13.45.37:198][874]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.24-13.45.37:203][874]LogExit: Exiting.
+[2018.12.24-13.45.37:210][874]Log file closed, 12/24/18 14:45:37
